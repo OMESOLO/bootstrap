@@ -28,7 +28,6 @@
   </header>
   <!-- End Navbar -->
    
-
 </template>
 
 
